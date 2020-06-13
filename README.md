@@ -1,4 +1,4 @@
-# Pokemon:The Mythology Of Legendaries
+# Pokemon:The Game Of Masters
 The battle ground for Pokemon trainers implemented in Python with PyGame as library
 
 # Code of Game:
